@@ -1,0 +1,15 @@
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\bin\Debug\net7.0\Flexischools.Data.deps.json
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\bin\Debug\net7.0\Flexischools.Data.runtimeconfig.json
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\bin\Debug\net7.0\Flexischools.Data.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\bin\Debug\net7.0\Flexischools.Data.pdb
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.csproj.AssemblyReference.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.AssemblyInfoInputs.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.AssemblyInfo.cs
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.csproj.CoreCompileInputs.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\refint\Flexischools.Data.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.pdb
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.genruntimeconfig.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\ref\Flexischools.Data.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Data\obj\Debug\net7.0\Flexischools.Data.csproj.ResolveComReference.cache

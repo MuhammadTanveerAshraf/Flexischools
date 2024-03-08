@@ -1,0 +1,15 @@
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\bin\Debug\net7.0\Flexischools.Services.deps.json
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\bin\Debug\net7.0\Flexischools.Services.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\bin\Debug\net7.0\Flexischools.Services.pdb
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\bin\Debug\net7.0\Flexischools.Data.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\bin\Debug\net7.0\Flexischools.Data.pdb
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.csproj.AssemblyReference.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.AssemblyInfoInputs.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.AssemblyInfo.cs
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.csproj.CoreCompileInputs.cache
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.csproj.CopyComplete
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\refint\Flexischools.Services.dll
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\Flexischools.Services.pdb
+C:\Users\M Tanveer Ashraf\Downloads\Systems\Flexischools.API\Flexischools.Services\obj\Debug\net7.0\ref\Flexischools.Services.dll
