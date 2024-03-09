@@ -11,9 +11,11 @@ namespace Flexischools.Services.Services
     {
         private readonly IMediator _mediator;
 
+        //Constructor
         public LectureService(IMediator mediator)
         {
-            _mediator = mediator;
+            //using Guard expression
+            _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
         }
 
         public async Task<Guid> AddLecture(AddLectureRequest request)

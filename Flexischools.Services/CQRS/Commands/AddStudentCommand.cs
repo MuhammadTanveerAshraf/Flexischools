@@ -1,6 +1,8 @@
-﻿namespace Flexischools.Data.Models.Request
+﻿using MediatR;
+
+namespace Flexischools.Services.CQRS.Commands
 {
-    public class AddStudentRequest
+    internal class AddStudentCommand : IRequest<Guid>
     {
         public required string Name { get; set; }
         public Guid SubjectId { get; set; }
