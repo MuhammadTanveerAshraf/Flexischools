@@ -26,7 +26,7 @@ namespace Flexischools.API.Controllers
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] AddStudentRequest request)
         {
-            var response = await _service.AddStudent();
+            var response = await _service.AddStudent(request);
             return Ok(response);
         }
     }
